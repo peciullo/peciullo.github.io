@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Peciullo"
-title: "{ Peciullo - Początek }"
+title: "{ Peciullo }"
 description: "Początki histroii Peciulli."
 keywords: "kapsle, ketchup, życie"
 favicon: "/img/favicon.ico"
@@ -55,10 +55,13 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Posędziowałem dobre zawody."
-  - text: "Lubię ketchup."
+  - text: "Często wydaje mi się, że jestem obserwowany."
+  - text: "W nocy, gdy boję się spać, uspokaja mnie 20 McNuggets'ów z Maka."
+  - text: "Jedząc ketchup z Maka czuję się bezpieczny. Dodaję go do każdej potrawy."
   - text: "Jak to Beee?"
-  - text: "Wieź mnie na Maka!"
+  - text: "Jeszcze tylko 1 candy do Charizarda!"
+  - text: "No już schodzę, jestem w windzie. Przecież spóźniam się tylko 20 minut.."
+  - text: "Dziwne, że niektórzy na moje talizmany szczęścia mowią kapsle od piwa.."
 
 me-img: "/img/jetpacktocat.png"
 
